@@ -1,25 +1,15 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
 ## By the way here are some of my statistics 🚀
 ![arthurcadore's github stats](https://github-readme-stats.vercel.app/api?username=arthurcadore&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurcadore&theme=tokyonight" alt="mystreak"/>
 ![arthurcadore's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcadore&theme=tokyonight&layout=compact)
 
-------
-Credit: [arthurcadore](https://github.com/arthurcadore)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-Last Edited on: 21/08/2021
-<!--
-**arthurcadore/arthurcadore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Last Edited on: 30/11/2021
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
